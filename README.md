@@ -1,2 +1,1 @@
 # calculatorJS
-Project at MITT
